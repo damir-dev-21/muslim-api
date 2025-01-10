@@ -1,0 +1,5 @@
+PGUSER="postgres"
+PGPASSWORD="1234"
+DATABASE="muslimdb"
+DBHOST="localhost"
+PORT="5432"
